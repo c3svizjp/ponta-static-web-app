@@ -1,0 +1,7 @@
+{
+    "name": "ponta-static-web-app",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo 'No Build needed'"
+    }
+}
